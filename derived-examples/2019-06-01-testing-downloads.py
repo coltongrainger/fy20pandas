@@ -65,7 +65,8 @@ entry_img_array = res.json().get('opaResponse').get('results').get('result')[0]\
                   .get('objects').get('object')
 
 # download all images for this entry
-for img_info in entry_img_array[1:-1]: 
+# for img_info in entry_img_array[1:-1]: 
+for img_info in entry_img_array[1:5]: 
     img_name = img_info.get('file').get('@name')
     # TODO test for mimetype "image/jpeg" here
     img_url = img_info.get('file').get('@url')

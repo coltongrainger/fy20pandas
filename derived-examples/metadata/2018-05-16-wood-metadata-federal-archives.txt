@@ -302,18 +302,12 @@ Entity-and-Attribute-Information:
 >
 > Attribute-Definition:
 >
-> refers to the top level of arrangement used by the National Archives:
-> "In the National Archives, records of the Federal government are
-> arranged in numbered record groups (RG), with each record group
-> comprising the records of a major government entity, usually a bureau
-> or an independent agency"
-> (http://www.ourarchives.wikispaces.net/Record+Groups). For example,
-> four record groups (RG 23, RG 24, RG 26 and 261) are referenced on the
-> Excel spreadsheet. Logbooks of U.S. Coast and Geodetic Survey ships
-> are found in RG 23, logbooks of U.S. Navy ships are found in RG 24,
-> Records of the Bureau of Naval Personnel, and logbooks of U.S. Coast
-> Guard ships are found in RG 26, Records of the U.S. Coast Guard.
-> Logbooks of the Russian-American Company are found in RG 261.
+> refers to the top level of arrangement used by the National Archives: "In the National Archives, records of the Federal government are arranged in numbered record groups (RG), with each record group comprising the records of a major government entity, usually a bureau or an independent agency" (http://www.ourarchives.wikispaces.net/Record+Groups).
+For example, four record groups (RG 23, RG 24, RG 26 and 261) are referenced on the Excel spreadsheet.
+Logbooks of U.S. Coast and Geodetic Survey ships are found in RG 23, 
+logbooks of U.S. Navy ships are found in RG 24, Records of the Bureau of Naval Personnel, 
+and logbooks of U.S. Coast Guard ships are found in RG 26, Records of the U.S. Coast Guard. 
+Logbooks of the Russian-American Company are found in RG 261.
 >
 > Attribute-Definition-Source:
 >
