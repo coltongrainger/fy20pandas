@@ -1,0 +1,1475 @@
+{
+  "opaResponse":{
+    "@status":"200",
+    "time":"2019-06-03T00:48:00.845Z",
+    "request":{
+      "format":"json",
+      "pretty":true,
+      "action":"search",
+      "naIds":"23678516"
+    },
+    "results":{
+      "queryTime":16,
+      "total":1,
+      "offset":0,
+      "rows":10,
+      "result":[
+      {
+        "num":"1",
+        "type":"description",
+        "naId":"23678516",
+        "description":{
+          "fileUnit":{
+            "accessRestriction":{
+              "status":{
+                "naId":"10031403",
+                "termName":"Unrestricted"
+              }
+            },
+            "coverageDates":{
+              "coverageEndDate":{
+                "day":"31",
+                "month":"10",
+                "year":"1935"
+              },
+              "coverageStartDate":{
+                "day":"1",
+                "month":"10",
+                "year":"1935"
+              }
+            },
+            "dataControlGroup":{
+              "groupCd":"RDTP1",
+              "groupId":"ou=RDTP1,ou=groups"
+            },
+            "generalNoteArray":{
+              "generalNote":{
+                "note":"This logbook was scanned as part of a collaboration effort between the National Oceanic and Atmospheric Administration (NOAA) and the National Archives."
+              }
+            },
+            "generalRecordsTypeArray":{
+              "generalRecordsType":{
+                "naId":"10035676",
+                "termName":"Textual Records"
+              }
+            },
+            "isUnderEdit":"false",
+            "naId":"23678516",
+            "physicalOccurrenceArray":{
+              "fileUnitPhysicalOccurrence":{
+                "copyStatus":{
+                  "naId":"10031434",
+                  "termName":"Preservation-Reproduction-Reference"
+                },
+                "locationArray":{
+                  "location":{
+                    "facility":{
+                      "naId":"10048490",
+                      "termName":"National Archives Building - Archives I (Washington, DC)"
+                    }
+                  }
+                },
+                "mediaOccurrenceArray":{
+                  "mediaOccurrence":{
+                    "containerId":"541",
+                    "generalMediaTypeArray":{
+                      "generalMediaType":{
+                        "naId":"12000002",
+                        "termName":"Bound Volumes"
+                      }
+                    },
+                    "specificMediaType":{
+                      "naId":"10048658",
+                      "termName":"Bound Volume"
+                    }
+                  }
+                },
+                "referenceUnitArray":{
+                  "referenceUnit":{
+                    "mailCode":"RDT1",
+                    "name":"National Archives at Washington, DC - Textual Reference",
+                    "address1":"National Archives Building",
+                    "address2":"7th and Pennsylvania Avenue NW",
+                    "city":"Washington",
+                    "state":"DC",
+                    "postCode":"20408",
+                    "phone":"202-357-5385",
+                    "fax":"202-357-5936",
+                    "email":"Archives1reference@nara.gov",
+                    "naId":"32",
+                    "termName":"National Archives at Washington, DC - Textual Reference"
+                  }
+                }
+              }
+            },
+            "recordHistory":{
+              "created":{
+                "dateTime":"2015-08-26T09:58:08"
+              },
+              "imported":{
+                "dateTime":"2015-08-26T09:58:08"
+              }
+            },
+            "title":"Chelan, October 1935",
+            "useRestriction":{
+              "status":{
+                "naId":"10675400",
+                "termName":"Unrestricted"
+              }
+            },
+            "variantControlNumberArray":{
+              "variantControlNumber":{
+                "number":"NC-31 159-A",
+                "type":{
+                  "naId":"10675882",
+                  "termName":"HMS\/MLR Entry Number"
+                }
+              }
+            },
+            "itemCount":"0",
+            "itemAvCount":"0",
+            "parentSeries":{
+              "naId":"585454",
+              "title":"Logs of Revenue Cutters and Coast Guard Vessels",
+              "inclusiveDates":{
+                "inclusiveEndDate":{
+                  "year":"1941",
+                  "logicalDate":"1941-12-31T00:00:00"
+                },
+                "inclusiveStartDate":{
+                  "year":"1819",
+                  "logicalDate":"1819-01-01T00:00:00"
+                }
+              },
+              "parentRecordGroup":{
+                "naId":"355",
+                "title":"Records of the U.S. Coast Guard",
+                "recordGroupNumber":"26",
+                "inclusiveDates":{
+                  "inclusiveEndDate":{
+                    "year":"2005",
+                    "logicalDate":"2005-12-31T00:00:00"
+                  },
+                  "inclusiveStartDate":{
+                    "year":"1785",
+                    "logicalDate":"1785-01-01T00:00:00"
+                  }
+                }
+              },
+              "creatingOrganizationArray":{
+                "creatingOrganization":[
+                  {
+                    "creator":{
+                      "naId":"10457736",
+                      "termName":"Department of the Treasury. Customs Service. 7\/31\/1789-3\/3\/1927",
+                      "establishDate":{
+                        "year":"1789",
+                        "month":"7",
+                        "day":"31",
+                        "logicalDate":"1789-07-31T00:00:00"
+                      },
+                      "abolishDate":{
+                        "year":"1927",
+                        "month":"3",
+                        "day":"3",
+                        "logicalDate":"1927-03-03T00:00:00"
+                      }
+                    },
+                    "creatorType":{
+                      "naId":"10031466",
+                      "termName":"Predecessor"
+                    }
+                  },
+                  {
+                    "creator":{
+                      "naId":"10529519",
+                      "termName":"Department of the Treasury. Revenue Cutter Service. 7\/31\/1894-1915",
+                      "establishDate":{
+                        "year":"1894",
+                        "month":"7",
+                        "day":"31",
+                        "logicalDate":"1894-07-31T00:00:00"
+                      },
+                      "abolishDate":{
+                        "year":"1915",
+                        "logicalDate":"1915-12-31T00:00:00"
+                      }
+                    },
+                    "creatorType":{
+                      "naId":"10031466",
+                      "termName":"Predecessor"
+                    }
+                  },
+                  {
+                    "creator":{
+                      "naId":"10529426",
+                      "termName":"Department of the Treasury. U.S. Coast Guard. 1\/28\/1915-4\/1\/1967",
+                      "establishDate":{
+                        "year":"1915",
+                        "month":"1",
+                        "day":"28",
+                        "logicalDate":"1915-01-28T00:00:00"
+                      },
+                      "abolishDate":{
+                        "year":"1967",
+                        "month":"4",
+                        "day":"1",
+                        "logicalDate":"1967-04-01T00:00:00"
+                      }
+                    },
+                    "creatorType":{
+                      "naId":"10031465",
+                      "termName":"Most Recent"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "objects":{
+          "@created":"2015-01-01T00:00:00Z",
+          "@version":"OPA-OBJECTS-1.0",
+          "object":[
+            {
+              "@id":"23678517",
+              "@objectSortNum":"43",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"application\/pdf",
+                "@name":"Chelan-1935-10.pdf",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10.pdf",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10.pdf"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10.pdf-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10.pdf-thumb.jpg"
+              }
+            },
+            {
+              "@id":"23678518",
+              "@objectSortNum":"1",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0001.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0001.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0001.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0001.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0001.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0001.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0001.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"3497988",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678519",
+              "@objectSortNum":"2",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0002.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0002.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0002.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0002.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0002.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0002.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0002.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4934935",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678520",
+              "@objectSortNum":"3",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0003.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0003.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0003.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0003.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0003.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0003.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0003.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4548385",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678521",
+              "@objectSortNum":"4",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0004.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0004.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0004.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0004.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0004.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0004.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0004.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4474221",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678522",
+              "@objectSortNum":"5",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0005.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0005.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0005.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0005.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0005.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0005.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0005.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4648613",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678523",
+              "@objectSortNum":"6",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0006.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0006.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0006.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0006.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0006.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0006.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0006.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4096674",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678524",
+              "@objectSortNum":"7",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0007.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0007.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0007.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0007.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0007.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0007.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0007.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4546757",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678525",
+              "@objectSortNum":"8",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0008.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0008.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0008.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0008.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0008.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0008.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0008.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4613367",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678526",
+              "@objectSortNum":"9",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0009.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0009.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0009.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0009.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0009.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0009.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0009.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4553548",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678527",
+              "@objectSortNum":"10",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0010.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0010.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0010.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0010.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0010.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0010.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0010.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4630020",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678528",
+              "@objectSortNum":"11",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0011.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0011.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0011.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0011.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0011.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0011.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0011.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4375944",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678529",
+              "@objectSortNum":"12",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0012.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0012.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0012.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0012.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0012.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0012.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0012.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4293896",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678530",
+              "@objectSortNum":"13",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0013.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0013.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0013.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0013.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0013.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0013.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0013.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4504083",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678531",
+              "@objectSortNum":"14",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0014.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0014.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0014.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0014.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0014.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0014.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0014.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4452419",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678532",
+              "@objectSortNum":"15",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0015.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0015.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0015.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0015.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0015.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0015.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0015.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4706522",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678533",
+              "@objectSortNum":"16",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0016.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0016.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0016.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0016.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0016.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0016.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0016.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4815196",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678534",
+              "@objectSortNum":"17",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0017.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0017.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0017.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0017.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0017.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0017.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0017.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4026595",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678535",
+              "@objectSortNum":"18",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0018.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0018.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0018.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0018.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0018.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0018.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0018.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4337105",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678536",
+              "@objectSortNum":"19",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0019.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0019.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0019.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0019.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0019.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0019.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0019.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4465437",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678537",
+              "@objectSortNum":"20",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0020.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0020.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0020.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0020.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0020.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0020.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0020.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4395268",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678538",
+              "@objectSortNum":"21",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0021.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0021.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0021.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0021.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0021.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0021.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0021.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4343944",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678539",
+              "@objectSortNum":"22",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0022.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0022.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0022.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0022.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0022.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0022.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0022.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4532212",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678540",
+              "@objectSortNum":"23",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0023.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0023.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0023.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0023.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0023.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0023.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0023.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4589136",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678541",
+              "@objectSortNum":"24",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0024.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0024.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0024.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0024.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0024.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0024.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0024.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4222333",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678542",
+              "@objectSortNum":"25",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0025.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0025.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0025.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0025.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0025.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0025.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0025.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4702772",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678543",
+              "@objectSortNum":"26",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0026.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0026.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0026.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0026.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0026.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0026.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0026.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4476235",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678544",
+              "@objectSortNum":"27",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0027.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0027.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0027.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0027.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0027.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0027.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0027.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4472628",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678545",
+              "@objectSortNum":"28",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0028.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0028.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0028.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0028.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0028.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0028.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0028.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4487290",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678546",
+              "@objectSortNum":"29",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0029.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0029.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0029.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0029.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0029.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0029.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0029.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4286827",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678547",
+              "@objectSortNum":"30",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0030.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0030.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0030.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0030.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0030.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0030.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0030.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4491657",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678548",
+              "@objectSortNum":"31",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0031.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0031.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0031.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0031.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0031.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0031.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0031.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4046028",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678549",
+              "@objectSortNum":"32",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0032.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0032.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0032.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0032.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0032.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0032.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0032.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4657205",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678550",
+              "@objectSortNum":"33",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0033.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0033.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0033.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0033.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0033.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0033.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0033.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4480371",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678551",
+              "@objectSortNum":"34",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0034.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0034.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0034.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0034.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0034.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0034.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0034.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4549197",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678552",
+              "@objectSortNum":"35",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0035.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0035.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0035.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0035.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0035.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0035.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0035.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4463375",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678553",
+              "@objectSortNum":"36",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0036.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0036.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0036.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0036.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0036.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0036.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0036.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4344577",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678554",
+              "@objectSortNum":"37",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0037.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0037.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0037.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0037.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0037.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0037.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0037.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4198748",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678555",
+              "@objectSortNum":"38",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0038.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0038.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0038.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0038.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0038.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0038.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0038.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4636034",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678556",
+              "@objectSortNum":"39",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0039.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0039.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0039.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0039.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0039.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0039.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0039.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4325503",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678557",
+              "@objectSortNum":"40",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0040.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0040.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0040.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0040.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0040.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0040.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0040.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4577894",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678558",
+              "@objectSortNum":"41",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0041.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0041.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0041.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0041.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0041.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0041.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0041.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"4563366",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            },
+            {
+              "@id":"23678559",
+              "@objectSortNum":"42",
+              "description":"Images provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Chelan-1935-10-0042.JPG",
+                "@path":"content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0042.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/content\/dc-metro\/rg-026\/585454\/0002\/Chelan-1935-10\/Chelan-1935-10-0042.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Chelan-1935-10-0042.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/thumbnails\/Chelan-1935-10-0042.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Chelan-1935-10-0042.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/23678516\/opa-renditions\/image-tiles\/Chelan-1935-10-0042.JPG.dzi"
+              },
+              "technicalMetadata":{
+                "size":"3894331",
+                "mime":"image\/jpeg",
+                "height":"3744 pixels",
+                "width":"5054 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5"
+              }
+            }
+          ]
+        }
+      }
+      ]
+    }
+  }
+}

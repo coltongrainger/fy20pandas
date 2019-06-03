@@ -1,0 +1,3981 @@
+{
+  "opaResponse":{
+    "@status":"200",
+    "time":"2019-06-03T00:45:44.311Z",
+    "request":{
+      "format":"json",
+      "pretty":true,
+      "action":"search",
+      "naIds":"17298664"
+    },
+    "results":{
+      "queryTime":20,
+      "total":1,
+      "offset":0,
+      "rows":10,
+      "result":[
+      {
+        "num":"1",
+        "type":"description",
+        "naId":"17298664",
+        "description":{
+          "fileUnit":{
+            "accessRestriction":{
+              "status":{
+                "naId":"10031403",
+                "termName":"Unrestricted"
+              }
+            },
+            "coverageDates":{
+              "coverageEndDate":{
+                "month":"5",
+                "year":"1944",
+                "logicalDate":"1944-05-31T00:00:00"
+              },
+              "coverageStartDate":{
+                "month":"5",
+                "year":"1944",
+                "logicalDate":"1944-05-01T00:00:00"
+              }
+            },
+            "dataControlGroup":{
+              "groupCd":"RDTP2",
+              "groupId":"ou=RDTP2,ou=groups"
+            },
+            "generalRecordsTypeArray":{
+              "generalRecordsType":{
+                "naId":"10035676",
+                "termName":"Textual Records"
+              }
+            },
+            "physicalOccurrenceArray":{
+              "fileUnitPhysicalOccurrence":{
+                "copyStatus":{
+                  "naId":"10031434",
+                  "termName":"Preservation-Reproduction-Reference"
+                },
+                "locationArray":{
+                  "location":{
+                    "facility":{
+                      "naId":"10048491",
+                      "termName":"National Archives at College Park - Archives II (College Park, MD)"
+                    }
+                  }
+                },
+                "mediaOccurrenceArray":{
+                  "mediaOccurrence":{
+                    "generalMediaTypeArray":{
+                      "generalMediaType":{
+                        "naId":"12000005",
+                        "termName":"Loose Sheets"
+                      }
+                    },
+                    "specificMediaType":{
+                      "naId":"10048756",
+                      "termName":"Paper"
+                    }
+                  }
+                },
+                "referenceUnitArray":{
+                  "referenceUnit":{
+                    "naId":"33",
+                    "termName":"National Archives at College Park - Textual Reference",
+                    "mailCode":"RDT2",
+                    "name":"National Archives at College Park - Textual Reference",
+                    "address1":"National Archives at College Park",
+                    "address2":"8601 Adelphi Road",
+                    "city":"College Park",
+                    "state":"MD",
+                    "postCode":"20740-6001",
+                    "phone":"301-837-3510",
+                    "fax":"301-837-1752",
+                    "email":"Archives2reference@nara.gov"
+                  }
+                }
+              }
+            },
+            "specificRecordsTypeArray":{
+              "specificRecordsType":{
+                "naId":"10657334",
+                "termName":"ships' logs"
+              }
+            },
+            "title":"Idaho (BB-42) - May, 1944",
+            "useRestriction":{
+              "status":{
+                "naId":"10675400",
+                "termName":"Unrestricted"
+              }
+            },
+            "variantControlNumberArray":{
+              "variantControlNumber":[
+                {
+                  "number":"Navy Deck Log (NDL) - Batch 0005",
+                  "type":{
+                    "naId":"10675757",
+                    "termName":"Search Identifier"
+                  }
+                },
+                {
+                  "number":"A1 118",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AA",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AB",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AC",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AD",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AE",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AF",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AG",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AH",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AI",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AJ",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AK",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AL",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AM",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AN",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118AO",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118L",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118M",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118N",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118O",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118P",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118Q",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118U",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118V",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118W",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118X",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118Y",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"A1 118Z",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-04W 3",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-04W 4",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-09W 1",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-UP 11",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-UP 21",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"UD-UP 6",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 A1",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 A2",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 B",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 C",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 D",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 E",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 F",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 G",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                },
+                {
+                  "number":"P-118 H",
+                  "type":{
+                    "naId":"10675882",
+                    "termName":"HMS\/MLR Entry Number"
+                  }
+                }
+              ]
+            },
+            "naId":"17298664",
+            "recordHistory":{
+              "imported":{
+                "dateTime":"2015-02-12T16:21:26"
+              },
+              "created":{
+                "dateTime":"2015-02-12T16:21:26"
+              },
+              "changed":{
+                "modification":{
+                  "dateTime":"2015-04-22T14:11:06"
+                }
+              }
+            },
+            "isUnderEdit":"false",
+            "itemCount":"0",
+            "itemAvCount":"0",
+            "parentSeries":{
+              "naId":"594258",
+              "title":"Logbooks of U.S. Navy Ships and Stations",
+              "inclusiveDates":{
+                "inclusiveEndDate":{
+                  "year":"1983",
+                  "logicalDate":"1983-12-31T00:00:00"
+                },
+                "inclusiveStartDate":{
+                  "year":"1941",
+                  "logicalDate":"1941-01-01T00:00:00"
+                }
+              },
+              "parentRecordGroup":{
+                "naId":"353",
+                "title":"Records of the Bureau of Naval Personnel",
+                "recordGroupNumber":"24",
+                "inclusiveDates":{
+                  "inclusiveEndDate":{
+                    "year":"2007",
+                    "logicalDate":"2007-12-31T00:00:00"
+                  },
+                  "inclusiveStartDate":{
+                    "year":"1798",
+                    "logicalDate":"1798-01-01T00:00:00"
+                  }
+                }
+              },
+              "creatingOrganizationArray":{
+                "creatingOrganization":[
+                  {
+                    "creator":{
+                      "naId":"10460709",
+                      "termName":"Department of the Navy. Bureau of Navigation. 4\/25\/1913-5\/1942",
+                      "establishDate":{
+                        "year":"1913",
+                        "month":"4",
+                        "day":"25",
+                        "logicalDate":"1913-04-25T00:00:00"
+                      },
+                      "abolishDate":{
+                        "year":"1942",
+                        "month":"5",
+                        "logicalDate":"1942-05-31T00:00:00"
+                      }
+                    },
+                    "creatorType":{
+                      "naId":"10031466",
+                      "termName":"Predecessor"
+                    }
+                  },
+                  {
+                    "creator":{
+                      "naId":"10461537",
+                      "termName":"Department of Defense. Department of the Navy. Naval Military Personnel Command. 1982-1991",
+                      "establishDate":{
+                        "year":"1982",
+                        "logicalDate":"1982-01-01T00:00:00"
+                      },
+                      "abolishDate":{
+                        "year":"1991",
+                        "logicalDate":"1991-12-31T00:00:00"
+                      }
+                    },
+                    "creatorType":{
+                      "naId":"10031465",
+                      "termName":"Most Recent"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        "objects":{
+          "@created":"2015-01-01T00:00:00Z",
+          "@version":"OPA-OBJECTS-1.0",
+          "object":[
+            {
+              "@id":"17298562",
+              "@objectSortNum":"1",
+              "technicalMetadata":{
+                "size":"4633172",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0001.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0001.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0001.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0001.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0001.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0001.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0001.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298563",
+              "@objectSortNum":"2",
+              "technicalMetadata":{
+                "size":"4720645",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0002.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0002.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0002.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0002.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0002.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0002.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0002.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298564",
+              "@objectSortNum":"3",
+              "technicalMetadata":{
+                "size":"4545393",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0003.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0003.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0003.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0003.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0003.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0003.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0003.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298565",
+              "@objectSortNum":"4",
+              "technicalMetadata":{
+                "size":"4450905",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0004.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0004.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0004.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0004.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0004.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0004.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0004.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298566",
+              "@objectSortNum":"5",
+              "technicalMetadata":{
+                "size":"5139997",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0005.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0005.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0005.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0005.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0005.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0005.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0005.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298567",
+              "@objectSortNum":"6",
+              "technicalMetadata":{
+                "size":"4774118",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0006.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0006.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0006.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0006.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0006.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0006.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0006.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298568",
+              "@objectSortNum":"7",
+              "technicalMetadata":{
+                "size":"3101393",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0007.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0007.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0007.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0007.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0007.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0007.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0007.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298569",
+              "@objectSortNum":"8",
+              "technicalMetadata":{
+                "size":"4144986",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0008.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0008.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0008.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0008.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0008.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0008.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0008.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298570",
+              "@objectSortNum":"9",
+              "technicalMetadata":{
+                "size":"5201950",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0009.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0009.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0009.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0009.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0009.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0009.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0009.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298571",
+              "@objectSortNum":"10",
+              "technicalMetadata":{
+                "size":"4666783",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0010.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0010.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0010.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0010.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0010.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0010.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0010.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298572",
+              "@objectSortNum":"11",
+              "technicalMetadata":{
+                "size":"4936553",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0011.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0011.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0011.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0011.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0011.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0011.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0011.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298573",
+              "@objectSortNum":"12",
+              "technicalMetadata":{
+                "size":"4279060",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0012.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0012.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0012.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0012.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0012.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0012.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0012.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298574",
+              "@objectSortNum":"13",
+              "technicalMetadata":{
+                "size":"5158020",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0013.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0013.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0013.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0013.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0013.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0013.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0013.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298575",
+              "@objectSortNum":"14",
+              "technicalMetadata":{
+                "size":"4773485",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0014.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0014.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0014.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0014.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0014.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0014.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0014.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298576",
+              "@objectSortNum":"15",
+              "technicalMetadata":{
+                "size":"4447533",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0015.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0015.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0015.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0015.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0015.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0015.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0015.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298577",
+              "@objectSortNum":"16",
+              "technicalMetadata":{
+                "size":"4739745",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0016.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0016.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0016.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0016.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0016.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0016.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0016.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298578",
+              "@objectSortNum":"17",
+              "technicalMetadata":{
+                "size":"4734308",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0017.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0017.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0017.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0017.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0017.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0017.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0017.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298579",
+              "@objectSortNum":"18",
+              "technicalMetadata":{
+                "size":"4249126",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0018.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0018.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0018.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0018.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0018.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0018.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0018.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298580",
+              "@objectSortNum":"19",
+              "technicalMetadata":{
+                "size":"5163427",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0019.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0019.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0019.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0019.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0019.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0019.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0019.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298581",
+              "@objectSortNum":"20",
+              "technicalMetadata":{
+                "size":"4910001",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0020.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0020.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0020.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0020.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0020.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0020.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0020.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298582",
+              "@objectSortNum":"21",
+              "technicalMetadata":{
+                "size":"4299244",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0021.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0021.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0021.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0021.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0021.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0021.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0021.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298583",
+              "@objectSortNum":"22",
+              "technicalMetadata":{
+                "size":"5227165",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0022.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0022.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0022.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0022.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0022.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0022.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0022.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298584",
+              "@objectSortNum":"23",
+              "technicalMetadata":{
+                "size":"4931211",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0023.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0023.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0023.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0023.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0023.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0023.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0023.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298585",
+              "@objectSortNum":"24",
+              "technicalMetadata":{
+                "size":"4981522",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0024.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0024.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0024.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0024.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0024.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0024.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0024.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298586",
+              "@objectSortNum":"25",
+              "technicalMetadata":{
+                "size":"4162630",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0025.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0025.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0025.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0025.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0025.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0025.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0025.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298587",
+              "@objectSortNum":"26",
+              "technicalMetadata":{
+                "size":"5185242",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0026.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0026.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0026.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0026.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0026.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0026.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0026.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298588",
+              "@objectSortNum":"27",
+              "technicalMetadata":{
+                "size":"4518571",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0027.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0027.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0027.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0027.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0027.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0027.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0027.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298589",
+              "@objectSortNum":"28",
+              "technicalMetadata":{
+                "size":"5150066",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0028.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0028.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0028.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0028.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0028.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0028.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0028.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298590",
+              "@objectSortNum":"29",
+              "technicalMetadata":{
+                "size":"4634345",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0029.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0029.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0029.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0029.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0029.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0029.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0029.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298591",
+              "@objectSortNum":"30",
+              "technicalMetadata":{
+                "size":"3577213",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0030.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0030.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0030.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0030.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0030.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0030.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0030.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298592",
+              "@objectSortNum":"31",
+              "technicalMetadata":{
+                "size":"5243007",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0031.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0031.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0031.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0031.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0031.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0031.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0031.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298593",
+              "@objectSortNum":"32",
+              "technicalMetadata":{
+                "size":"4432450",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0032.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0032.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0032.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0032.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0032.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0032.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0032.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298594",
+              "@objectSortNum":"33",
+              "technicalMetadata":{
+                "size":"5044049",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0033.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0033.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0033.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0033.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0033.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0033.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0033.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298595",
+              "@objectSortNum":"34",
+              "technicalMetadata":{
+                "size":"4822905",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0034.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0034.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0034.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0034.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0034.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0034.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0034.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298596",
+              "@objectSortNum":"35",
+              "technicalMetadata":{
+                "size":"4685319",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0035.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0035.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0035.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0035.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0035.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0035.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0035.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298597",
+              "@objectSortNum":"36",
+              "technicalMetadata":{
+                "size":"4438615",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0036.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0036.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0036.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0036.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0036.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0036.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0036.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298598",
+              "@objectSortNum":"37",
+              "technicalMetadata":{
+                "size":"4994995",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0037.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0037.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0037.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0037.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0037.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0037.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0037.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298599",
+              "@objectSortNum":"38",
+              "technicalMetadata":{
+                "size":"4817631",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0038.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0038.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0038.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0038.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0038.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0038.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0038.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298600",
+              "@objectSortNum":"39",
+              "technicalMetadata":{
+                "size":"5030873",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0039.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0039.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0039.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0039.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0039.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0039.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0039.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298601",
+              "@objectSortNum":"40",
+              "technicalMetadata":{
+                "size":"4810112",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0040.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0040.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0040.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0040.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0040.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0040.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0040.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298602",
+              "@objectSortNum":"41",
+              "technicalMetadata":{
+                "size":"4239577",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0041.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0041.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0041.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0041.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0041.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0041.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0041.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298603",
+              "@objectSortNum":"42",
+              "technicalMetadata":{
+                "size":"5059975",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0042.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0042.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0042.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0042.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0042.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0042.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0042.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298604",
+              "@objectSortNum":"43",
+              "technicalMetadata":{
+                "size":"4338577",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0043.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0043.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0043.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0043.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0043.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0043.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0043.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298605",
+              "@objectSortNum":"44",
+              "technicalMetadata":{
+                "size":"3678121",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0044.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0044.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0044.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0044.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0044.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0044.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0044.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298606",
+              "@objectSortNum":"45",
+              "technicalMetadata":{
+                "size":"4971040",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0045.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0045.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0045.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0045.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0045.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0045.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0045.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298607",
+              "@objectSortNum":"46",
+              "technicalMetadata":{
+                "size":"5122477",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0046.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0046.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0046.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0046.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0046.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0046.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0046.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298608",
+              "@objectSortNum":"47",
+              "technicalMetadata":{
+                "size":"3969708",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0047.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0047.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0047.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0047.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0047.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0047.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0047.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298609",
+              "@objectSortNum":"48",
+              "technicalMetadata":{
+                "size":"5015995",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0048.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0048.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0048.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0048.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0048.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0048.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0048.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298610",
+              "@objectSortNum":"49",
+              "technicalMetadata":{
+                "size":"4358562",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0049.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0049.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0049.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0049.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0049.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0049.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0049.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298611",
+              "@objectSortNum":"50",
+              "technicalMetadata":{
+                "size":"3457926",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0050.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0050.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0050.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0050.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0050.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0050.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0050.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298612",
+              "@objectSortNum":"51",
+              "technicalMetadata":{
+                "size":"5054973",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0051.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0051.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0051.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0051.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0051.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0051.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0051.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298613",
+              "@objectSortNum":"52",
+              "technicalMetadata":{
+                "size":"4598756",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0052.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0052.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0052.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0052.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0052.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0052.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0052.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298614",
+              "@objectSortNum":"53",
+              "technicalMetadata":{
+                "size":"3372468",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0053.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0053.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0053.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0053.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0053.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0053.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0053.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298615",
+              "@objectSortNum":"54",
+              "technicalMetadata":{
+                "size":"5021029",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0054.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0054.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0054.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0054.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0054.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0054.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0054.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298616",
+              "@objectSortNum":"55",
+              "technicalMetadata":{
+                "size":"4816752",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0055.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0055.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0055.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0055.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0055.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0055.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0055.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298617",
+              "@objectSortNum":"56",
+              "technicalMetadata":{
+                "size":"4962949",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0056.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0056.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0056.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0056.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0056.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0056.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0056.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298618",
+              "@objectSortNum":"57",
+              "technicalMetadata":{
+                "size":"3332452",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0057.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0057.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0057.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0057.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0057.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0057.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0057.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298619",
+              "@objectSortNum":"58",
+              "technicalMetadata":{
+                "size":"5059404",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0058.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0058.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0058.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0058.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0058.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0058.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0058.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298620",
+              "@objectSortNum":"59",
+              "technicalMetadata":{
+                "size":"4639418",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0059.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0059.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0059.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0059.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0059.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0059.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0059.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298621",
+              "@objectSortNum":"60",
+              "technicalMetadata":{
+                "size":"3578667",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0060.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0060.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0060.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0060.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0060.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0060.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0060.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298622",
+              "@objectSortNum":"61",
+              "technicalMetadata":{
+                "size":"5172536",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0061.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0061.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0061.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0061.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0061.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0061.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0061.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298623",
+              "@objectSortNum":"62",
+              "technicalMetadata":{
+                "size":"4453440",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0062.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0062.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0062.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0062.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0062.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0062.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0062.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298624",
+              "@objectSortNum":"63",
+              "technicalMetadata":{
+                "size":"3602047",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0063.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0063.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0063.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0063.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0063.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0063.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0063.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298625",
+              "@objectSortNum":"64",
+              "technicalMetadata":{
+                "size":"5077114",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0064.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0064.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0064.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0064.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0064.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0064.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0064.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298626",
+              "@objectSortNum":"65",
+              "technicalMetadata":{
+                "size":"4910686",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0065.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0065.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0065.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0065.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0065.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0065.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0065.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298627",
+              "@objectSortNum":"66",
+              "technicalMetadata":{
+                "size":"3910419",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0066.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0066.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0066.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0066.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0066.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0066.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0066.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298628",
+              "@objectSortNum":"67",
+              "technicalMetadata":{
+                "size":"5125637",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0067.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0067.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0067.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0067.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0067.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0067.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0067.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298629",
+              "@objectSortNum":"68",
+              "technicalMetadata":{
+                "size":"5266560",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0068.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0068.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0068.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0068.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0068.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0068.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0068.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298630",
+              "@objectSortNum":"69",
+              "technicalMetadata":{
+                "size":"4296376",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0069.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0069.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0069.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0069.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0069.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0069.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0069.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298631",
+              "@objectSortNum":"70",
+              "technicalMetadata":{
+                "size":"5052379",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0070.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0070.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0070.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0070.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0070.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0070.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0070.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298632",
+              "@objectSortNum":"71",
+              "technicalMetadata":{
+                "size":"4715839",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0071.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0071.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0071.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0071.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0071.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0071.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0071.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298633",
+              "@objectSortNum":"72",
+              "technicalMetadata":{
+                "size":"5090980",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0072.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0072.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0072.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0072.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0072.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0072.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0072.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298634",
+              "@objectSortNum":"73",
+              "technicalMetadata":{
+                "size":"5181229",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0073.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0073.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0073.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0073.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0073.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0073.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0073.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298635",
+              "@objectSortNum":"74",
+              "technicalMetadata":{
+                "size":"4354505",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0074.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0074.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0074.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0074.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0074.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0074.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0074.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298636",
+              "@objectSortNum":"75",
+              "technicalMetadata":{
+                "size":"5115132",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0075.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0075.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0075.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0075.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0075.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0075.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0075.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298637",
+              "@objectSortNum":"76",
+              "technicalMetadata":{
+                "size":"5357224",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0076.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0076.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0076.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0076.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0076.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0076.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0076.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298638",
+              "@objectSortNum":"77",
+              "technicalMetadata":{
+                "size":"3898078",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0077.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0077.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0077.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0077.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0077.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0077.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0077.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298639",
+              "@objectSortNum":"78",
+              "technicalMetadata":{
+                "size":"5010026",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0078.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0078.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0078.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0078.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0078.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0078.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0078.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298640",
+              "@objectSortNum":"79",
+              "technicalMetadata":{
+                "size":"4820953",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0079.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0079.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0079.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0079.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0079.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0079.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0079.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298641",
+              "@objectSortNum":"80",
+              "technicalMetadata":{
+                "size":"3814524",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0080.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0080.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0080.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0080.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0080.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0080.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0080.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298642",
+              "@objectSortNum":"81",
+              "technicalMetadata":{
+                "size":"5124758",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0081.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0081.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0081.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0081.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0081.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0081.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0081.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298643",
+              "@objectSortNum":"82",
+              "technicalMetadata":{
+                "size":"4769693",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0082.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0082.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0082.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0082.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0082.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0082.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0082.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298644",
+              "@objectSortNum":"83",
+              "technicalMetadata":{
+                "size":"3616912",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0083.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0083.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0083.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0083.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0083.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0083.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0083.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298645",
+              "@objectSortNum":"84",
+              "technicalMetadata":{
+                "size":"5289644",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0084.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0084.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0084.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0084.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0084.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0084.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0084.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298646",
+              "@objectSortNum":"85",
+              "technicalMetadata":{
+                "size":"4287888",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0085.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0085.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0085.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0085.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0085.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0085.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0085.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298647",
+              "@objectSortNum":"86",
+              "technicalMetadata":{
+                "size":"5161693",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0086.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0086.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0086.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0086.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0086.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0086.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0086.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298648",
+              "@objectSortNum":"87",
+              "technicalMetadata":{
+                "size":"4905281",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0087.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0087.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0087.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0087.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0087.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0087.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0087.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298649",
+              "@objectSortNum":"88",
+              "technicalMetadata":{
+                "size":"4037148",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0088.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0088.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0088.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0088.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0088.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0088.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0088.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298650",
+              "@objectSortNum":"89",
+              "technicalMetadata":{
+                "size":"5047106",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0089.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0089.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0089.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0089.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0089.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0089.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0089.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298651",
+              "@objectSortNum":"90",
+              "technicalMetadata":{
+                "size":"4481713",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0090.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0090.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0090.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0090.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0090.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0090.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0090.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298652",
+              "@objectSortNum":"91",
+              "technicalMetadata":{
+                "size":"3480070",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0091.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0091.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0091.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0091.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0091.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0091.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0091.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298653",
+              "@objectSortNum":"92",
+              "technicalMetadata":{
+                "size":"5094676",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0092.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0092.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0092.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0092.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0092.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0092.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0092.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298654",
+              "@objectSortNum":"93",
+              "technicalMetadata":{
+                "size":"4582767",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0093.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0093.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0093.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0093.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0093.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0093.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0093.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298655",
+              "@objectSortNum":"94",
+              "technicalMetadata":{
+                "size":"3637440",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0094.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0094.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0094.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0094.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0094.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0094.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0094.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298656",
+              "@objectSortNum":"95",
+              "technicalMetadata":{
+                "size":"5085317",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0095.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0095.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0095.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0095.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0095.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0095.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0095.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298657",
+              "@objectSortNum":"96",
+              "technicalMetadata":{
+                "size":"4703145",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0096.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0096.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0096.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0096.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0096.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0096.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0096.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298658",
+              "@objectSortNum":"97",
+              "technicalMetadata":{
+                "size":"4014340",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0097.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0097.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0097.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0097.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0097.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0097.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0097.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298659",
+              "@objectSortNum":"98",
+              "technicalMetadata":{
+                "size":"4600159",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0098.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0098.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0098.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0098.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0098.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0098.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0098.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298660",
+              "@objectSortNum":"99",
+              "technicalMetadata":{
+                "size":"4826530",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0099.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0099.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0099.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0099.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0099.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0099.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0099.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298661",
+              "@objectSortNum":"100",
+              "technicalMetadata":{
+                "size":"3975974",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0100.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0100.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0100.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0100.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0100.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0100.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0100.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298662",
+              "@objectSortNum":"101",
+              "technicalMetadata":{
+                "size":"4362316",
+                "mime":"image\/jpeg",
+                "height":"5616 pixels",
+                "width":"3744 pixels",
+                "orientation":"Top, left side (Horizontal \/ normal)",
+                "software":"ACDSee Pro 5",
+                "resolution":{
+                  "@units":"none",
+                  "@x":"72 dots per inch",
+                  "@y":"72 dots per inch"
+                }
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"image\/jpeg",
+                "@name":"Idaho-BB-42-1944-05-0101.JPG",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0101.JPG",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05-0101.JPG"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0101.JPG-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05-0101.JPG-thumb.jpg"
+              },
+              "imageTiles":{
+                "@path":"opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0101.JPG.dzi",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/image-tiles\/Idaho-BB-42-1944-05-0101.JPG.dzi"
+              }
+            },
+            {
+              "@id":"17298663",
+              "@objectSortNum":"102",
+              "technicalMetadata":{
+                "size":"465794659",
+                "mime":"application\/pdf",
+                "createDate":"2015-02-05T01:02:30Z",
+                "modifyDate":"2015-02-05T01:02:30Z",
+                "Page-Count":"101"
+              },
+              "description":"Image provided by NOAA.",
+              "file":{
+                "@mime":"application\/pdf",
+                "@name":"Idaho-BB-42-1944-05.pdf",
+                "@path":"content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05.pdf",
+                "@type":"primary",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/content\/dc-metro\/rg-024\/594258-ndl\/594258-Batch00005\/Idaho-BB-42-1944-05\/Idaho-BB-42-1944-05.pdf"
+              },
+              "thumbnail":{
+                "@mime":"image\/jpeg",
+                "@path":"opa-renditions\/thumbnails\/Idaho-BB-42-1944-05.pdf-thumb.jpg",
+                "@url":"https:\/\/catalog.archives.gov\/OpaAPI\/media\/17298664\/opa-renditions\/thumbnails\/Idaho-BB-42-1944-05.pdf-thumb.jpg"
+              }
+            }
+          ]
+        }
+      }
+      ]
+    }
+  }
+}
