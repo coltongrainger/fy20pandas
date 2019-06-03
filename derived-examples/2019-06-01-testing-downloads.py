@@ -9,7 +9,7 @@ import requests
 import logging
 import http.client
 
-#  fakesection: setup logging for requests # 
+#  fakesection: set up logging for requests # 
 
 # https://stackoverflow.com/questions/16337511/
 http.client.HTTPConnection.debuglevel = 1
@@ -111,3 +111,7 @@ return None
 
 # test apply
 # ndf.groupby('NARA URL').apply(download_nara_entry)
+
+#  fakesection: actually download # 
+
+ndf.groupby('NARA URL').apply(download_nara_entry)
