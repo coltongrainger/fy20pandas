@@ -21,8 +21,7 @@ requests_log.propagate = True
 
 #  fakesection: import Wood's NARA metadata
 
-%cd ~/fy/20/pandas/derived-examples
-# %ls metadata/*
+os.chdir("/glade/u/home/grainger/fy20pandas/derived-examples/")
 df = pd.read_csv('2018-05-16-NARA-master-manifest/all.csv')
 
 # trim spaces and remove redundant column
@@ -34,7 +33,8 @@ NARA_record_group_dict = dict([(23, 'USCS'), # Records of the Coast and Geodetic
                                (24, 'Navy'), # Records of the Bureau of Naval Personnel
                                (26, 'CG'), # Records of the U.S. Coast Guard
                                (261, 'RAC') # Records of Former Russian Agencies
-                              ])
+			      ])
+
 sample = pd.concat([df.loc[df['Record Group'] == gp].sample(5, random_state=1)\
                     for gp in NARA_record_group_dict])
 
@@ -64,7 +64,7 @@ def download_nara_entry(entry): # entry is assumed to be a *DataFrame*
     digital_directory = entry_img_array[0].get('file').get('@path').split("/")[-2]
 
     # create local directories if needed
-    paths = dict([(k, '/home/colton/fy/20/pandas/derived-examples/{0}/{1}'\
+    paths = dict([(k, '/glade/collections/rda/work/image_archive/{0}/{1}'\
                   .format(k, digital_directory))\
                   for k in ['data', 'metadata']])
     for k, val in paths.items():
@@ -102,16 +102,12 @@ def download_nara_entry(entry): # entry is assumed to be a *DataFrame*
                 with open(local_img_name, 'wb') as img_f:
                     img_f.write(img_res.content)
 
-return None
+    return None
 
-#  fakesection: tests # 
+#  fakesection: test a single entry (~200 images) # 
 
-# test
 # download_nara_entry(ndf.sample(1, random_state=0))
 
-# test apply
-# ndf.groupby('NARA URL').apply(download_nara_entry)
-
-#  fakesection: actually download # 
+#  fakesection: test the entire random sample (~1500 images) # 
 
 ndf.groupby('NARA URL').apply(download_nara_entry)
